@@ -10,7 +10,7 @@ A subcellular location, cell type or gross anatomical part
 URI: [http://bioentity.io/vocab/AnatomicalEntity](http://bioentity.io/vocab/AnatomicalEntity)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[organismal entity]^-[anatomical entity], [anatomical entity]-in taxon >[organism taxon], [ontology class]^-[organism taxon])
+![img](http://yuml.me/diagram/nofunky/class/%5Borganismal%20entity%5D%5E-%5Banatomical%20entity%5D%2C%20%5Banatomical%20entity%5D-in%20taxon%20%3E%5Borganism%20taxon%5D%2C%20%5Bontology%20class%5D%5E-%5Borganism%20taxon%5D)
 ## Mappings
 
  * [UMLSSG:ANAT](http://purl.obolibrary.org/obo/UMLSSG_ANAT)

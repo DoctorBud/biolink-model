@@ -10,7 +10,7 @@ None
 URI: [http://bioentity.io/vocab/PhenotypicFeature](http://bioentity.io/vocab/PhenotypicFeature)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[disease or phenotypic feature]^-[phenotypic feature], [phenotypic feature]-in taxon >[organism taxon], [ontology class]^-[organism taxon])
+![img](http://yuml.me/diagram/nofunky/class/%5Bdisease%20or%20phenotypic%20feature%5D%5E-%5Bphenotypic%20feature%5D%2C%20%5Bphenotypic%20feature%5D-in%20taxon%20%3E%5Borganism%20taxon%5D%2C%20%5Bontology%20class%5D%5E-%5Borganism%20taxon%5D)
 ## Mappings
 
  * [UPHENO:0000001](http://purl.obolibrary.org/obo/UPHENO_0000001)

@@ -10,7 +10,7 @@ The functional molecular product of a single gene. Gene products are either prot
 URI: [http://bioentity.io/vocab/GeneProduct](http://bioentity.io/vocab/GeneProduct)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[gene or gene product]^-[gene product], [gene product]-in taxon >[organism taxon], [ontology class]^-[organism taxon])
+![img](http://yuml.me/diagram/nofunky/class/%5Bgene%20or%20gene%20product%5D%5E-%5Bgene%20product%5D%2C%20%5Bgene%20product%5D-in%20taxon%20%3E%5Borganism%20taxon%5D%2C%20%5Bontology%20class%5D%5E-%5Borganism%20taxon%5D)
 ## Mappings
 
  * [WD:Q424689](http://purl.obolibrary.org/obo/WD_Q424689)

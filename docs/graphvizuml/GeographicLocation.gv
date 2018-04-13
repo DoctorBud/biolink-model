@@ -1,0 +1,8 @@
+// biolink model
+digraph {
+	graph [fontsize=32 penwidth=5]
+	node [color=black fontname="times bold" shape=rectangle]
+	edge [color=gray fontcolor=darkgray]
+	"geographic location" [label=" geographic location " style=bold]
+	"planetary entity" -> "geographic location" [label="" arrowtail=onormal dir=back]
+}

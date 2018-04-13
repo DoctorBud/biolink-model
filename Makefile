@@ -48,7 +48,7 @@ docs/index.md: biolink-model.yaml
 contrib/%/docs/index.md: contrib/%.yaml
 	./bin/gen-markdown.py --dir contrib/$*/docs $< > $@
 clean-docs:
-	rm docs/*.md
+	rm -rf docs/*
 
 # ~~~~~~~~~~~~~~~~~~~~
 # Ontology
@@ -88,6 +88,9 @@ contrib/%/schema.py: contrib/%.yaml
 # trigger manually to avoid git churn
 gv: biolink-model.yaml 
 	./bin/gen-graphviz.py -d graphviz $<
+
+gvuml: biolink-model.yaml docs/index.md
+	./bin/gen-graphviz-uml.py -d docs/graphvizuml $<
 
 graphviz/%.png: biolink-model.yaml 
 	./bin/gen-graphviz.py  -c $* $< -o graphviz/$*

@@ -10,7 +10,7 @@ any grouping of multiple genes or gene products related by common descent
 URI: [http://bioentity.io/vocab/GeneFamily](http://bioentity.io/vocab/GeneFamily)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[molecular entity]^-[gene family], [gene family]-in taxon >[organism taxon], [ontology class]^-[organism taxon])
+![img](http://yuml.me/diagram/nofunky/class/%5Bmolecular%20entity%5D%5E-%5Bgene%20family%5D%2C%20%5Bgene%20family%5D-in%20taxon%20%3E%5Borganism%20taxon%5D%2C%20%5Bontology%20class%5D%5E-%5Borganism%20taxon%5D)
 ## Mappings
 
  * [NCIT:C20130](http://purl.obolibrary.org/obo/NCIT_C20130)

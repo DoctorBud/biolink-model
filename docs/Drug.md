@@ -10,7 +10,7 @@ A substance intended for use in the diagnosis, cure, mitigation, treatment, or p
 URI: [http://bioentity.io/vocab/Drug](http://bioentity.io/vocab/Drug)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[chemical substance]^-[drug], [drug]-in taxon >[organism taxon], [ontology class]^-[organism taxon])
+![img](http://yuml.me/diagram/nofunky/class/%5Bchemical%20substance%5D%5E-%5Bdrug%5D%2C%20%5Bdrug%5D-in%20taxon%20%3E%5Borganism%20taxon%5D%2C%20%5Bontology%20class%5D%5E-%5Borganism%20taxon%5D)
 ## Mappings
 
  * [WD:Q12140](http://purl.obolibrary.org/obo/WD_Q12140)

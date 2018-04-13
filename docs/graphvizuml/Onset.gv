@@ -1,0 +1,8 @@
+// biolink model
+digraph {
+	graph [fontsize=32 penwidth=5]
+	node [color=black fontname="times bold" shape=rectangle]
+	edge [color=gray fontcolor=darkgray]
+	onset [label=" onset " style=bold]
+	attribute -> onset [label="" arrowtail=onormal dir=back]
+}

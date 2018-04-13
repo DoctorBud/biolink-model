@@ -10,7 +10,7 @@ Represents a protein that is a specific isoform of the canonical or reference pr
 URI: [http://bioentity.io/vocab/ProteinIsoform](http://bioentity.io/vocab/ProteinIsoform)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[protein]^-[protein isoform], [protein isoform]-in taxon >[organism taxon], [ontology class]^-[organism taxon])
+![img](http://yuml.me/diagram/nofunky/class/%5Bprotein%5D%5E-%5Bprotein%20isoform%5D%2C%20%5Bprotein%20isoform%5D-in%20taxon%20%3E%5Borganism%20taxon%5D%2C%20%5Bontology%20class%5D%5E-%5Borganism%20taxon%5D)
 ## Mappings
 
 

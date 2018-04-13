@@ -10,7 +10,7 @@ An execution of a molecular function
 URI: [http://bioentity.io/vocab/MolecularActivity](http://bioentity.io/vocab/MolecularActivity)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[biological entity]^-[molecular activity])
+![img](http://yuml.me/diagram/nofunky/class/%5Bbiological%20entity%5D%5E-%5Bmolecular%20activity%5D)
 ## Mappings
 
  * [GO:0003674](http://purl.obolibrary.org/obo/GO_0003674)

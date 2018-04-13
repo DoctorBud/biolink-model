@@ -10,7 +10,7 @@ None
 URI: [http://bioentity.io/vocab/CodingSequence](http://bioentity.io/vocab/CodingSequence)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[genomic entity]^-[coding sequence], [coding sequence]-in taxon >[organism taxon], [ontology class]^-[organism taxon])
+![img](http://yuml.me/diagram/nofunky/class/%5Bgenomic%20entity%5D%5E-%5Bcoding%20sequence%5D%2C%20%5Bcoding%20sequence%5D-in%20taxon%20%3E%5Borganism%20taxon%5D%2C%20%5Bontology%20class%5D%5E-%5Borganism%20taxon%5D)
 ## Mappings
 
  * [SO:0000316](http://purl.obolibrary.org/obo/SO_0000316)

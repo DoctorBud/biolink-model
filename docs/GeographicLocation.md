@@ -10,7 +10,7 @@ a location that can be described in lat/long coordinates
 URI: [http://bioentity.io/vocab/GeographicLocation](http://bioentity.io/vocab/GeographicLocation)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[planetary entity]^-[geographic location])
+![img](http://yuml.me/diagram/nofunky/class/%5Bplanetary%20entity%5D%5E-%5Bgeographic%20location%5D)
 ## Mappings
 
  * [UMLSSG:GEOG](http://purl.obolibrary.org/obo/UMLSSG_GEOG)

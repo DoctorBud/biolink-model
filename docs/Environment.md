@@ -10,7 +10,7 @@ A feature of the environment of an organism that influences one or more phenotyp
 URI: [http://bioentity.io/vocab/Environment](http://bioentity.io/vocab/Environment)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[biological entity]^-[environment])
+![img](http://yuml.me/diagram/nofunky/class/%5Bbiological%20entity%5D%5E-%5Benvironment%5D)
 ## Mappings
 
  * [SIO:000955](http://semanticscience.org/resource/SIO_000955)

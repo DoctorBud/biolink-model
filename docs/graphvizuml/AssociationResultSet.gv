@@ -1,0 +1,22 @@
+// biolink model
+digraph {
+	graph [fontsize=32 penwidth=5]
+	node [color=black fontname="times bold" shape=rectangle]
+	edge [color=gray fontcolor=darkgray]
+	"association result set" [label=" association result set " style=bold]
+	"information content entity" -> "association result set" [label="" arrowtail=onormal dir=back]
+	"association result set" -> association [label=associations]
+	association [label=" association " style=solid]
+	"information content entity" -> association [label="" arrowtail=onormal dir=back]
+	association -> provider [label="provided by"]
+	provider [label=" provider " style=solid]
+	"administrative entity" -> provider [label="" arrowtail=onormal dir=back]
+	association -> publication [label=publications]
+	publication [label=" publication " style=solid]
+	"information content entity" -> publication [label="" arrowtail=onormal dir=back]
+	association -> "ontology class" [label=qualifiers]
+	"ontology class" [label=" ontology class " style=solid]
+	association -> "relationship type" [label=relation]
+	"relationship type" [label=" relationship type " style=solid]
+	association -> "ontology class" [label="association type"]
+}

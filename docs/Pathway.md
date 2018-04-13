@@ -10,7 +10,7 @@ None
 URI: [http://bioentity.io/vocab/Pathway](http://bioentity.io/vocab/Pathway)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[biological process]^-[pathway])
+![img](http://yuml.me/diagram/nofunky/class/%5Bbiological%20process%5D%5E-%5Bpathway%5D)
 ## Mappings
 
  * [GO:0007165](http://purl.obolibrary.org/obo/GO_0007165)

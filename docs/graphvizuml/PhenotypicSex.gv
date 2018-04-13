@@ -1,0 +1,8 @@
+// biolink model
+digraph {
+	graph [fontsize=32 penwidth=5]
+	node [color=black fontname="times bold" shape=rectangle]
+	edge [color=gray fontcolor=darkgray]
+	"phenotypic sex" [label=" phenotypic sex " style=bold]
+	"biological sex" -> "phenotypic sex" [label="" arrowtail=onormal dir=back]
+}

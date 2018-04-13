@@ -10,7 +10,7 @@ An information content entity that describes a genome by specifying the total va
 URI: [http://bioentity.io/vocab/Genotype](http://bioentity.io/vocab/Genotype)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[genomic entity]^-[genotype], [genotype]-has zygosity >[zygosity], [attribute]^-[zygosity], [genotype]-in taxon >[organism taxon], [ontology class]^-[organism taxon])
+![img](http://yuml.me/diagram/nofunky/class/%5Bgenomic%20entity%5D%5E-%5Bgenotype%5D%2C%20%5Bgenotype%5D-has%20zygosity%20%3E%5Bzygosity%5D%2C%20%5Battribute%5D%5E-%5Bzygosity%5D%2C%20%5Bgenotype%5D-in%20taxon%20%3E%5Borganism%20taxon%5D%2C%20%5Bontology%20class%5D%5E-%5Borganism%20taxon%5D)
 ## Mappings
 
  * [GENO:0000536](http://purl.obolibrary.org/obo/GENO_0000536)

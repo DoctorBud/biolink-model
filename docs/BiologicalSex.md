@@ -10,7 +10,7 @@ None
 URI: [http://bioentity.io/vocab/BiologicalSex](http://bioentity.io/vocab/BiologicalSex)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[attribute]^-[biological sex])
+![img](http://yuml.me/diagram/nofunky/class/%5Battribute%5D%5E-%5Bbiological%20sex%5D)
 ## Mappings
 
  * [PATO:0000047](http://purl.obolibrary.org/obo/PATO_0000047)

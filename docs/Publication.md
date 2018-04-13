@@ -10,7 +10,7 @@ Any published piece of information. Can refer to a whole publication, or to a pa
 URI: [http://bioentity.io/vocab/Publication](http://bioentity.io/vocab/Publication)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[information content entity]^-[publication])
+![img](http://yuml.me/diagram/nofunky/class/%5Binformation%20content%20entity%5D%5E-%5Bpublication%5D)
 ## Mappings
 
  * [IAO:0000311](http://purl.obolibrary.org/obo/IAO_0000311)

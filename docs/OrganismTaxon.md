@@ -10,7 +10,7 @@ None
 URI: [http://bioentity.io/vocab/OrganismTaxon](http://bioentity.io/vocab/OrganismTaxon)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[ontology class]^-[organism taxon])
+![img](http://yuml.me/diagram/nofunky/class/%5Bontology%20class%5D%5E-%5Borganism%20taxon%5D)
 ## Mappings
 
  * [WD:Q16521](http://purl.obolibrary.org/obo/WD_Q16521)

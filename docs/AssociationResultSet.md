@@ -10,7 +10,7 @@ None
 URI: [http://bioentity.io/vocab/AssociationResultSet](http://bioentity.io/vocab/AssociationResultSet)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[information content entity]^-[association result set], [association result set]-associations >[association], [information content entity]^-[association], [association]-association type >[ontology class], [association]-relation >[relationship type], [association]-qualifiers >[ontology class], [association]-publications >[publication], [information content entity]^-[publication], [association]-provided by >[provider], [administrative entity]^-[provider])
+![img](http://yuml.me/diagram/nofunky/class/%5Binformation%20content%20entity%5D%5E-%5Bassociation%20result%20set%5D%2C%20%5Bassociation%20result%20set%5D-associations%20%3E%5Bassociation%5D%2C%20%5Binformation%20content%20entity%5D%5E-%5Bassociation%5D%2C%20%5Bassociation%5D-association%20type%20%3E%5Bontology%20class%5D%2C%20%5Bassociation%5D-relation%20%3E%5Brelationship%20type%5D%2C%20%5Bassociation%5D-qualifiers%20%3E%5Bontology%20class%5D%2C%20%5Bassociation%5D-publications%20%3E%5Bpublication%5D%2C%20%5Binformation%20content%20entity%5D%5E-%5Bpublication%5D%2C%20%5Bassociation%5D-provided%20by%20%3E%5Bprovider%5D%2C%20%5Badministrative%20entity%5D%5E-%5Bprovider%5D)
 ## Mappings
 
 

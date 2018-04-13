@@ -10,7 +10,7 @@ An association between a biosample and something
 URI: [http://bioentity.io/vocab/BiosampleToThingAssociation](http://bioentity.io/vocab/BiosampleToThingAssociation)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[association]^-[biosample to thing association], [biosample to thing association]-association type >[ontology class], [biosample to thing association]-subject >[biosample], [organismal entity]^-[biosample], [biosample]-in taxon >[organism taxon], [ontology class]^-[organism taxon], [biosample to thing association]-relation >[relationship type], [biosample to thing association]-qualifiers >[ontology class], [biosample to thing association]-publications >[publication], [information content entity]^-[publication], [biosample to thing association]-provided by >[provider], [administrative entity]^-[provider])
+![img](http://yuml.me/diagram/nofunky/class/%5Bassociation%5D%5E-%5Bbiosample%20to%20thing%20association%5D%2C%20%5Bbiosample%20to%20thing%20association%5D-association%20type%20%3E%5Bontology%20class%5D%2C%20%5Bbiosample%20to%20thing%20association%5D-subject%20%3E%5Bbiosample%5D%2C%20%5Borganismal%20entity%5D%5E-%5Bbiosample%5D%2C%20%5Bbiosample%5D-in%20taxon%20%3E%5Borganism%20taxon%5D%2C%20%5Bontology%20class%5D%5E-%5Borganism%20taxon%5D%2C%20%5Bbiosample%20to%20thing%20association%5D-relation%20%3E%5Brelationship%20type%5D%2C%20%5Bbiosample%20to%20thing%20association%5D-qualifiers%20%3E%5Bontology%20class%5D%2C%20%5Bbiosample%20to%20thing%20association%5D-publications%20%3E%5Bpublication%5D%2C%20%5Binformation%20content%20entity%5D%5E-%5Bpublication%5D%2C%20%5Bbiosample%20to%20thing%20association%5D-provided%20by%20%3E%5Bprovider%5D%2C%20%5Badministrative%20entity%5D%5E-%5Bprovider%5D)
 ## Mappings
 
 

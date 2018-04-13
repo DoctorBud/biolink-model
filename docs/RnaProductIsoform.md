@@ -10,7 +10,7 @@ Represents a protein that is a specific isoform of the canonical or reference RN
 URI: [http://bioentity.io/vocab/RnaProductIsoform](http://bioentity.io/vocab/RnaProductIsoform)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[RNA product]^-[RNA product isoform], [RNA product isoform]-in taxon >[organism taxon], [ontology class]^-[organism taxon])
+![img](http://yuml.me/diagram/nofunky/class/%5BRNA%20product%5D%5E-%5BRNA%20product%20isoform%5D%2C%20%5BRNA%20product%20isoform%5D-in%20taxon%20%3E%5Borganism%20taxon%5D%2C%20%5Bontology%20class%5D%5E-%5Borganism%20taxon%5D)
 ## Mappings
 
 

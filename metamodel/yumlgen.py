@@ -8,6 +8,7 @@ https://yuml.me/diagram/scruffy/class/samples
 from .schemautils import *
 import yaml
 import logging
+from urllib.parse import quote
 from .manager import *
 from .generator import Generator
 
@@ -31,7 +32,9 @@ class YumlGenerator(Generator):
 
     def url(self, **args):
         p = ", ".join(self.arcs)
-        url = 'http://yuml.me/diagram/nofunky/class/{}'.format(p)
+        pencoded = quote(p)
+
+        url = 'http://yuml.me/diagram/nofunky/class/{}'.format(pencoded)
         return url
         
     

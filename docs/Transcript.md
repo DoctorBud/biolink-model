@@ -10,7 +10,7 @@ An RNA synthesized on a DNA or RNA template by an RNA polymerase
 URI: [http://bioentity.io/vocab/Transcript](http://bioentity.io/vocab/Transcript)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[genomic entity]^-[transcript], [transcript]-in taxon >[organism taxon], [ontology class]^-[organism taxon])
+![img](http://yuml.me/diagram/nofunky/class/%5Bgenomic%20entity%5D%5E-%5Btranscript%5D%2C%20%5Btranscript%5D-in%20taxon%20%3E%5Borganism%20taxon%5D%2C%20%5Bontology%20class%5D%5E-%5Borganism%20taxon%5D)
 ## Mappings
 
  * [SO:0000673](http://purl.obolibrary.org/obo/SO_0000673)

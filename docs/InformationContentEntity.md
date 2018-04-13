@@ -10,7 +10,7 @@ a piece of information that typically describes some piece of biology or is used
 URI: [http://bioentity.io/vocab/InformationContentEntity](http://bioentity.io/vocab/InformationContentEntity)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[named thing]^-[information content entity])
+![img](http://yuml.me/diagram/nofunky/class/%5Bnamed%20thing%5D%5E-%5Binformation%20content%20entity%5D)
 ## Mappings
 
  * [IAO:0000030](http://purl.obolibrary.org/obo/IAO_0000030)
