@@ -1,0 +1,8 @@
+// biolink model
+digraph {
+	graph [fontsize=32 penwidth=5]
+	node [color=black fontname="times bold" shape=rectangle]
+	edge [color=gray fontcolor=darkgray]
+	procedure [label=" procedure " style=bold]
+	occurrent -> procedure [label="" arrowtail=onormal dir=back]
+}

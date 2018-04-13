@@ -1,0 +1,11 @@
+// biolink model
+digraph {
+	graph [fontsize=32 penwidth=5]
+	node [color=black fontname="times bold" shape=rectangle]
+	edge [color=gray fontcolor=darkgray]
+	"gene or gene product" [label=" gene or gene product " style=bold]
+	"genomic entity" -> "gene or gene product" [label="" arrowtail=onormal dir=back]
+	"gene or gene product" -> "organism taxon" [label="in taxon"]
+	"organism taxon" [label=" organism taxon " style=solid]
+	"ontology class" -> "organism taxon" [label="" arrowtail=onormal dir=back]
+}

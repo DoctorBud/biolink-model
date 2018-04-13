@@ -10,7 +10,7 @@ a union of genes or gene products. Frequently an identifier for one will be used
 URI: [http://bioentity.io/vocab/GeneOrGeneProduct](http://bioentity.io/vocab/GeneOrGeneProduct)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[genomic entity]^-[gene or gene product], [gene or gene product]-in taxon >[organism taxon], [ontology class]^-[organism taxon])
+![img](http://yuml.me/diagram/nofunky/class/%5Bgenomic%20entity%5D%5E-%5Bgene%20or%20gene%20product%5D%2C%20%5Bgene%20or%20gene%20product%5D-in%20taxon%20%3E%5Borganism%20taxon%5D%2C%20%5Bontology%20class%5D%5E-%5Borganism%20taxon%5D)
 ## Mappings
 
 

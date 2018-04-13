@@ -10,7 +10,7 @@ A genome is the sum of genetic material within a cell or virion.
 URI: [http://bioentity.io/vocab/Genome](http://bioentity.io/vocab/Genome)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[genomic entity]^-[genome], [genome]-in taxon >[organism taxon], [ontology class]^-[organism taxon])
+![img](http://yuml.me/diagram/nofunky/class/%5Bgenomic%20entity%5D%5E-%5Bgenome%5D%2C%20%5Bgenome%5D-in%20taxon%20%3E%5Borganism%20taxon%5D%2C%20%5Bontology%20class%5D%5E-%5Borganism%20taxon%5D)
 ## Mappings
 
  * [SO:0001026](http://purl.obolibrary.org/obo/SO_0001026)

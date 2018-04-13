@@ -10,7 +10,7 @@ None
 URI: [http://bioentity.io/vocab/RnaProduct](http://bioentity.io/vocab/RnaProduct)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[gene product]^-[RNA product], [RNA product]-in taxon >[organism taxon], [ontology class]^-[organism taxon])
+![img](http://yuml.me/diagram/nofunky/class/%5Bgene%20product%5D%5E-%5BRNA%20product%5D%2C%20%5BRNA%20product%5D-in%20taxon%20%3E%5Borganism%20taxon%5D%2C%20%5Bontology%20class%5D%5E-%5Borganism%20taxon%5D)
 ## Mappings
 
  * [CHEBI:33697](http://purl.obolibrary.org/obo/CHEBI_33697)

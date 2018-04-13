@@ -10,7 +10,7 @@ None
 URI: [http://bioentity.io/vocab/MacromolecularComplex](http://bioentity.io/vocab/MacromolecularComplex)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[molecular entity]^-[macromolecular complex], [macromolecular complex]-in taxon >[organism taxon], [ontology class]^-[organism taxon])
+![img](http://yuml.me/diagram/nofunky/class/%5Bmolecular%20entity%5D%5E-%5Bmacromolecular%20complex%5D%2C%20%5Bmacromolecular%20complex%5D-in%20taxon%20%3E%5Borganism%20taxon%5D%2C%20%5Bontology%20class%5D%5E-%5Borganism%20taxon%5D)
 ## Mappings
 
  * [GO:0032991](http://purl.obolibrary.org/obo/GO_0032991)

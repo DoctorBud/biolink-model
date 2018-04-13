@@ -10,7 +10,7 @@ A gene product that is composed of a chain of amino acid sequences and is produc
 URI: [http://bioentity.io/vocab/Protein](http://bioentity.io/vocab/Protein)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[gene product]^-[protein], [protein]-in taxon >[organism taxon], [ontology class]^-[organism taxon])
+![img](http://yuml.me/diagram/nofunky/class/%5Bgene%20product%5D%5E-%5Bprotein%5D%2C%20%5Bprotein%5D-in%20taxon%20%3E%5Borganism%20taxon%5D%2C%20%5Bontology%20class%5D%5E-%5Borganism%20taxon%5D)
 ## Mappings
 
  * [PR:000000001](http://purl.obolibrary.org/obo/PR_000000001)

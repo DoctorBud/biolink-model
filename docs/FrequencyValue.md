@@ -10,7 +10,7 @@ describes the frequency of occurrence of an event or condition
 URI: [http://bioentity.io/vocab/FrequencyValue](http://bioentity.io/vocab/FrequencyValue)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[attribute]^-[frequency value])
+![img](http://yuml.me/diagram/nofunky/class/%5Battribute%5D%5E-%5Bfrequency%20value%5D)
 ## Mappings
 
 

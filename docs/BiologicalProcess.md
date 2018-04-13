@@ -10,7 +10,7 @@ One or more causally connected executions of molecular functions
 URI: [http://bioentity.io/vocab/BiologicalProcess](http://bioentity.io/vocab/BiologicalProcess)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[biological entity]^-[biological process])
+![img](http://yuml.me/diagram/nofunky/class/%5Bbiological%20entity%5D%5E-%5Bbiological%20process%5D)
 ## Mappings
 
  * [GO:0008150](http://purl.obolibrary.org/obo/GO_0008150)

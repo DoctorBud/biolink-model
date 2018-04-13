@@ -1,0 +1,11 @@
+// biolink model
+digraph {
+	graph [fontsize=32 penwidth=5]
+	node [color=black fontname="times bold" shape=rectangle]
+	edge [color=gray fontcolor=darkgray]
+	"macromolecular complex" [label=" macromolecular complex " style=bold]
+	"molecular entity" -> "macromolecular complex" [label="" arrowtail=onormal dir=back]
+	"macromolecular complex" -> "organism taxon" [label="in taxon"]
+	"organism taxon" [label=" organism taxon " style=solid]
+	"ontology class" -> "organism taxon" [label="" arrowtail=onormal dir=back]
+}

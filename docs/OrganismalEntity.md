@@ -10,7 +10,7 @@ A named entity that is either a part of an organism, a whole organism, populatio
 URI: [http://bioentity.io/vocab/OrganismalEntity](http://bioentity.io/vocab/OrganismalEntity)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[biological entity]^-[organismal entity])
+![img](http://yuml.me/diagram/nofunky/class/%5Bbiological%20entity%5D%5E-%5Borganismal%20entity%5D)
 ## Mappings
 
  * [WD:Q7239](http://purl.obolibrary.org/obo/WD_Q7239)

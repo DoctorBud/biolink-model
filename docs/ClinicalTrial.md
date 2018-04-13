@@ -10,7 +10,7 @@ None
 URI: [http://bioentity.io/vocab/ClinicalTrial](http://bioentity.io/vocab/ClinicalTrial)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[clinical entity]^-[clinical trial])
+![img](http://yuml.me/diagram/nofunky/class/%5Bclinical%20entity%5D%5E-%5Bclinical%20trial%5D)
 ## Mappings
 
 

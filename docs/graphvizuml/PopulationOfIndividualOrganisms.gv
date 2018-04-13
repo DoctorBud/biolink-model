@@ -1,0 +1,11 @@
+// biolink model
+digraph {
+	graph [fontsize=32 penwidth=5]
+	node [color=black fontname="times bold" shape=rectangle]
+	edge [color=gray fontcolor=darkgray]
+	"population of individual organisms" [label=" population of individual organisms " style=bold]
+	"organismal entity" -> "population of individual organisms" [label="" arrowtail=onormal dir=back]
+	"population of individual organisms" -> "organism taxon" [label="in taxon"]
+	"organism taxon" [label=" organism taxon " style=solid]
+	"ontology class" -> "organism taxon" [label="" arrowtail=onormal dir=back]
+}

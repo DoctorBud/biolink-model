@@ -10,7 +10,7 @@ None
 URI: [http://bioentity.io/vocab/EnvironmentalProcess](http://bioentity.io/vocab/EnvironmentalProcess)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[planetary entity]^-[environmental process])
+![img](http://yuml.me/diagram/nofunky/class/%5Bplanetary%20entity%5D%5E-%5Benvironmental%20process%5D)
 ## Mappings
 
  * [ENVO:02500000](http://purl.obolibrary.org/obo/ENVO_02500000)

@@ -10,7 +10,7 @@ None
 URI: [http://bioentity.io/vocab/ClinicalIntervention](http://bioentity.io/vocab/ClinicalIntervention)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[clinical entity]^-[clinical intervention])
+![img](http://yuml.me/diagram/nofunky/class/%5Bclinical%20entity%5D%5E-%5Bclinical%20intervention%5D)
 ## Mappings
 
 

@@ -1,0 +1,8 @@
+// biolink model
+digraph {
+	graph [fontsize=32 penwidth=5]
+	node [color=black fontname="times bold" shape=rectangle]
+	edge [color=gray fontcolor=darkgray]
+	"organism taxon" [label=" organism taxon " style=bold]
+	"ontology class" -> "organism taxon" [label="" arrowtail=onormal dir=back]
+}

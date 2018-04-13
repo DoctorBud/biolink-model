@@ -10,7 +10,7 @@ None
 URI: [http://bioentity.io/vocab/Biosample](http://bioentity.io/vocab/Biosample)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[organismal entity]^-[biosample], [biosample]-in taxon >[organism taxon], [ontology class]^-[organism taxon])
+![img](http://yuml.me/diagram/nofunky/class/%5Borganismal%20entity%5D%5E-%5Bbiosample%5D%2C%20%5Bbiosample%5D-in%20taxon%20%3E%5Borganism%20taxon%5D%2C%20%5Bontology%20class%5D%5E-%5Borganism%20taxon%5D)
 ## Mappings
 
  * [SIO:001050](http://semanticscience.org/resource/SIO_001050)

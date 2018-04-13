@@ -10,7 +10,7 @@ Class of evidence that supports an association
 URI: [http://bioentity.io/vocab/EvidenceType](http://bioentity.io/vocab/EvidenceType)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[information content entity]^-[evidence type])
+![img](http://yuml.me/diagram/nofunky/class/%5Binformation%20content%20entity%5D%5E-%5Bevidence%20type%5D)
 ## Mappings
 
  * [ECO:0000000](http://purl.obolibrary.org/obo/ECO_0000000)

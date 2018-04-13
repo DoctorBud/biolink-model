@@ -10,7 +10,7 @@ None
 URI: [http://bioentity.io/vocab/Microrna](http://bioentity.io/vocab/Microrna)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[noncoding RNA product]^-[microRNA], [microRNA]-in taxon >[organism taxon], [ontology class]^-[organism taxon])
+![img](http://yuml.me/diagram/nofunky/class/%5Bnoncoding%20RNA%20product%5D%5E-%5BmicroRNA%5D%2C%20%5BmicroRNA%5D-in%20taxon%20%3E%5Borganism%20taxon%5D%2C%20%5Bontology%20class%5D%5E-%5Borganism%20taxon%5D)
 ## Mappings
 
  * [SO:0000276](http://purl.obolibrary.org/obo/SO_0000276)

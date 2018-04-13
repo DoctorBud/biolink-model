@@ -10,7 +10,7 @@ A treatment is targeted at a disease or phenotype and may involve multiple drug 
 URI: [http://bioentity.io/vocab/Treatment](http://bioentity.io/vocab/Treatment)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[environment]^-[treatment], [treatment]-treats >[disease or phenotypic feature], [biological entity]^-[disease or phenotypic feature], [disease or phenotypic feature]-in taxon >[organism taxon], [ontology class]^-[organism taxon], [treatment]-has exposure parts >[drug exposure], [environment]^-[drug exposure])
+![img](http://yuml.me/diagram/nofunky/class/%5Benvironment%5D%5E-%5Btreatment%5D%2C%20%5Btreatment%5D-treats%20%3E%5Bdisease%20or%20phenotypic%20feature%5D%2C%20%5Bbiological%20entity%5D%5E-%5Bdisease%20or%20phenotypic%20feature%5D%2C%20%5Bdisease%20or%20phenotypic%20feature%5D-in%20taxon%20%3E%5Borganism%20taxon%5D%2C%20%5Bontology%20class%5D%5E-%5Borganism%20taxon%5D%2C%20%5Btreatment%5D-has%20exposure%20parts%20%3E%5Bdrug%20exposure%5D%2C%20%5Benvironment%5D%5E-%5Bdrug%20exposure%5D)
 ## Mappings
 
  * [OGMS:0000090](http://purl.obolibrary.org/obo/OGMS_0000090)

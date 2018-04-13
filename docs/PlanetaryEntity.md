@@ -10,7 +10,7 @@ Any entity or process that exists at the level of the whole planet
 URI: [http://bioentity.io/vocab/PlanetaryEntity](http://bioentity.io/vocab/PlanetaryEntity)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[named thing]^-[planetary entity])
+![img](http://yuml.me/diagram/nofunky/class/%5Bnamed%20thing%5D%5E-%5Bplanetary%20entity%5D)
 ## Mappings
 
 

@@ -10,7 +10,7 @@ An abstract association for use where the case is the subject
 URI: [http://bioentity.io/vocab/CaseToThingAssociation](http://bioentity.io/vocab/CaseToThingAssociation)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[association]^-[case to thing association], [case to thing association]-association type >[ontology class], [case to thing association]-subject >[case], [individual organism]^-[case], [case]-in taxon >[organism taxon], [ontology class]^-[organism taxon], [case to thing association]-relation >[relationship type], [case to thing association]-qualifiers >[ontology class], [case to thing association]-publications >[publication], [information content entity]^-[publication], [case to thing association]-provided by >[provider], [administrative entity]^-[provider])
+![img](http://yuml.me/diagram/nofunky/class/%5Bassociation%5D%5E-%5Bcase%20to%20thing%20association%5D%2C%20%5Bcase%20to%20thing%20association%5D-association%20type%20%3E%5Bontology%20class%5D%2C%20%5Bcase%20to%20thing%20association%5D-subject%20%3E%5Bcase%5D%2C%20%5Bindividual%20organism%5D%5E-%5Bcase%5D%2C%20%5Bcase%5D-in%20taxon%20%3E%5Borganism%20taxon%5D%2C%20%5Bontology%20class%5D%5E-%5Borganism%20taxon%5D%2C%20%5Bcase%20to%20thing%20association%5D-relation%20%3E%5Brelationship%20type%5D%2C%20%5Bcase%20to%20thing%20association%5D-qualifiers%20%3E%5Bontology%20class%5D%2C%20%5Bcase%20to%20thing%20association%5D-publications%20%3E%5Bpublication%5D%2C%20%5Binformation%20content%20entity%5D%5E-%5Bpublication%5D%2C%20%5Bcase%20to%20thing%20association%5D-provided%20by%20%3E%5Bprovider%5D%2C%20%5Badministrative%20entity%5D%5E-%5Bprovider%5D)
 ## Mappings
 
 

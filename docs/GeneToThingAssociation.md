@@ -10,7 +10,7 @@ None
 URI: [http://bioentity.io/vocab/GeneToThingAssociation](http://bioentity.io/vocab/GeneToThingAssociation)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[association]^-[gene to thing association], [gene to thing association]-association type >[ontology class], [gene to thing association]-subject >[gene or gene product], [genomic entity]^-[gene or gene product], [gene or gene product]-in taxon >[organism taxon], [ontology class]^-[organism taxon], [gene to thing association]-relation >[relationship type], [gene to thing association]-qualifiers >[ontology class], [gene to thing association]-publications >[publication], [information content entity]^-[publication], [gene to thing association]-provided by >[provider], [administrative entity]^-[provider])
+![img](http://yuml.me/diagram/nofunky/class/%5Bassociation%5D%5E-%5Bgene%20to%20thing%20association%5D%2C%20%5Bgene%20to%20thing%20association%5D-association%20type%20%3E%5Bontology%20class%5D%2C%20%5Bgene%20to%20thing%20association%5D-subject%20%3E%5Bgene%20or%20gene%20product%5D%2C%20%5Bgenomic%20entity%5D%5E-%5Bgene%20or%20gene%20product%5D%2C%20%5Bgene%20or%20gene%20product%5D-in%20taxon%20%3E%5Borganism%20taxon%5D%2C%20%5Bontology%20class%5D%5E-%5Borganism%20taxon%5D%2C%20%5Bgene%20to%20thing%20association%5D-relation%20%3E%5Brelationship%20type%5D%2C%20%5Bgene%20to%20thing%20association%5D-qualifiers%20%3E%5Bontology%20class%5D%2C%20%5Bgene%20to%20thing%20association%5D-publications%20%3E%5Bpublication%5D%2C%20%5Binformation%20content%20entity%5D%5E-%5Bpublication%5D%2C%20%5Bgene%20to%20thing%20association%5D-provided%20by%20%3E%5Bprovider%5D%2C%20%5Badministrative%20entity%5D%5E-%5Bprovider%5D)
 ## Mappings
 
 

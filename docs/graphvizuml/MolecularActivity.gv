@@ -1,0 +1,8 @@
+// biolink model
+digraph {
+	graph [fontsize=32 penwidth=5]
+	node [color=black fontname="times bold" shape=rectangle]
+	edge [color=gray fontcolor=darkgray]
+	"molecular activity" [label=" molecular activity " style=bold]
+	"biological entity" -> "molecular activity" [label="" arrowtail=onormal dir=back]
+}

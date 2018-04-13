@@ -1,0 +1,16 @@
+// biolink model
+digraph {
+	graph [fontsize=32 penwidth=5]
+	node [color=black fontname="times bold" shape=rectangle]
+	edge [color=gray fontcolor=darkgray]
+	"entity to disease association" [label=" entity to disease association " style=bold]
+	"entity to disease association" -> onset [label="onset qualifier"]
+	onset [label=" onset " style=solid]
+	attribute -> onset [label="" arrowtail=onormal dir=back]
+	"entity to disease association" -> "severity value" [label="severity qualifier"]
+	"severity value" [label=" severity value " style=solid]
+	attribute -> "severity value" [label="" arrowtail=onormal dir=back]
+	"entity to disease association" -> "frequency value" [label="frequency qualifier"]
+	"frequency value" [label=" frequency value " style=solid]
+	attribute -> "frequency value" [label="" arrowtail=onormal dir=back]
+}

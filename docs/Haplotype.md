@@ -10,7 +10,7 @@ A set of zero or more Alleles on a single instance of a Sequence[VMC]
 URI: [http://bioentity.io/vocab/Haplotype](http://bioentity.io/vocab/Haplotype)
 
 
-![img](http://yuml.me/diagram/nofunky/class/[genomic entity]^-[haplotype], [haplotype]-in taxon >[organism taxon], [ontology class]^-[organism taxon])
+![img](http://yuml.me/diagram/nofunky/class/%5Bgenomic%20entity%5D%5E-%5Bhaplotype%5D%2C%20%5Bhaplotype%5D-in%20taxon%20%3E%5Borganism%20taxon%5D%2C%20%5Bontology%20class%5D%5E-%5Borganism%20taxon%5D)
 ## Mappings
 
  * [VMC:Haplotype](http://purl.obolibrary.org/obo/VMC_Haplotype)
